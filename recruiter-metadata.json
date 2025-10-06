@@ -1,0 +1,17 @@
+{
+  "name": "Aditya Datar",
+  "roles": ["full stack", "backend", "frontend"],
+  "keywords": ["Java","Spring Boot","Microservices","React","Python","Django","AWS","LoRa","IoT","OCR","NLP","Computer Vision"],
+  "highlights": {
+    "api_users": 1500,
+    "automation_savings_usd_per_resource": 2200,
+    "automation_hours_saved_per_cycle": 8,
+    "patents": "multiple",
+    "publications": "IEEE Xplore, Scopus indexed"
+  },
+  "contact": {
+    "email": "adityadatar2001@gmail.com",
+    "github": "github.com/Aditya-Datar",
+    "linkedin": "linkedin.com/in/aditya-datar-5b6675204"
+  }
+}
