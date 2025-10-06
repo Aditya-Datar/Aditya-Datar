@@ -3,60 +3,43 @@
 
 I build systems people rely on, automate the boring parts of work, and turn research into products that run in the real world. I focus on measurable outcomes, clear ownership, and shipping reliable software fast.
 
----
+## TL;DR
+- Migrated Cobol legacy payments to Spring Boot microservices; APIs used by 1500+ staff.  
+- Built Python automation that removed 8 hours of manual work per cycle and saved $2200 per resource.  
+- Inventor on multiple patents and author of a Scopus-indexed IEEE paper.  
+- B.Tech CSE — CGPA 9.71/10 and merit scholarships throughout undergrad.
 
-# Why look at my profile, in 10 seconds
-• I modernized legacy banking systems and delivered REST APIs used by **1500+ internal users**.  
-• I built automation that saved **2200 dollars per resource** and removed **8 hours** of repetitive work per dev cycle.  
-• I am an inventor with **multiple patents**, and a published author on a Scopus indexed IEEE paper.  
-• Strong academics, scholarship winner, and product minded engineer.
+## Skills
+• Backend & Programming: Java, Spring Boot, Microservices, REST APIs, Python, Django, Programming Languages  
+• Frontend: React, JavaScript, HTML, CSS  
+• DevOps & Databases: MySQL, MongoDB, AWS (EC2, S3, Lambda, RDS), Git  
+• Applied Science & Research: Machine Learning, Natural Language Processing, Computer Vision, Publications In Journals.
 
----
+## Selected Projects (click to open repo; each has README, architecture notes and demo)
+### Modern Core Migration — HSBC Bank
+Replatformed legacy payments stack to Java Spring Boot microservices. Designed idempotent APIs, improved scalability and observability. Adopted by 1500+ internal users.  
+Tech: Java, Spring Boot, Postgres, Docker, CI.
 
-# What I do best
-• Design and implement backend systems that scale and are easy to operate.  
-• Build frontend experiences that are clear and fast, and connect them to strong APIs.  
-• Automate manual workflows, reduce human error, and save teams time and money.  
-• Prototype hardware and IoT systems for constrained environments, then move them to production.
+### WMT (Workforce Management Tool)
+Built allocation services and a React dashboard to manage resources and assignments.  
+Tech: Java, Spring Boot, React, Postgres.
 
----
+### OCR-Based Allergen Detector
+End-to-end OCR pipeline to scan product labels and flag allergens in real time.  
+Tech: Python, OCR, OpenCV, MongoDB.
 
-# Skills, organized
-• **Backend & Programming:** Java, Spring Boot, Microservices, REST APIs, Python, Django, Programming Languages  
-• **Frontend:** React, JavaScript, HTML, CSS  
-• **DevOps & Databases:** MySQL, MongoDB, AWS (EC2, S3, Lambda, RDS), Git  
-• **Applied Science & Research:** Machine Learning, Natural Language Processing, Computer Vision, Publications In Journals
+### Smart Beehive (LoRa-based IoT data transmission System)
+Low-power sensors + encrypted LoRa transport + cloud analytics. Resulted in patents and a peer-reviewed paper.  
+Tech: Embedded C, LoRa, Python, Flutter.
 
----
-
-# Select wins, quick case studies
-
-## Modern Core Migration, HSBC
-• Problem, context: Legacy monoliths slowed feature delivery and caused fragile releases.  
-• What I did: Replatformed payments logic into Java Spring Boot microservices, designed idempotent APIs, and added observability and safe migration lanes.  
-• Outcome: Production APIs adopted by **1500+ internal users**, faster releases, fewer incidents.
-
-## Automation that paid back
-• Problem: Repetitive manual steps eating developer time and increasing errors.  
-• What I did: Built Python automation to remove repetitive work across the development lifecycle.  
-• Outcome: Saved **2200 dollars per resource** and reclaimed **8 hours** per developer each cycle.
-
-## Smart Beehive, LoRa IoT system
-• Problem: Beekeepers in remote regions had no affordable telemetry.  
-• What I did: Built low power sensor nodes, encrypted LoRa transport, and cloud analytics. Filed patents and published results.  
-• Outcome: Provisional and design patents filed, IEEE Xplore publication, field ready prototypes.
-
-## OCR Allergen Detector
-• Problem: Users with allergies need a fast, reliable way to check packaged products.  
-• What I did: Led a team to build a mobile first OCR and CV pipeline with offline first UX and server validation.  
-• Outcome: MVP validated in lab tests, ready for pilot deployment.
-
----
+### CBDC Aid Distribution Wallet
+Prototype crypto wallet for secure CBDC transfers to farmers. Included biometric and QR flows and a Raspberry Pi integration. Patent filed.  
+Tech: Python, Flask, Raspberry Pi, Flutter Flow.
 
 # Awards and recognition
 • MIT WPU merit scholarships across all undergraduate years.  
 • Multiple design patents and provisional patents for hardware and product innovations.  
-• IEEE Xplore publication, Scopus indexed.  
+• IEEE Xplore publication, Scopus-indexed.  
 • Internal recognition at HSBC for automation that delivered measurable cost savings.
 
 ---
