@@ -7,7 +7,7 @@ I build systems people rely on, automate the boring parts of work, and turn rese
 - Migrated Cobol legacy payments to Spring Boot microservices; APIs used by 1500+ staff.  
 - Built Python automation that removed 8 hours of manual work per cycle and saved $2200 per resource.  
 - Inventor on multiple patents and author of a Scopus-indexed IEEE paper.  
-- B.Tech CSE — CGPA 9.71/10 and merit scholarships throughout undergrad.
+- B.Tech CSE: CGPA 9.71/10
 
 ## Skills
 • Backend & Programming: Java, Spring Boot, Microservices, REST APIs, Python, Django, Programming Languages  
