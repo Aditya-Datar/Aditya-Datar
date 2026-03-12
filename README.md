@@ -12,7 +12,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d2137?style=for-the-badge&logo=linkedin&logoColor=38BDF8&labelColor=0d2137)](https://www.linkedin.com/in/aditya-datar-5b6675204)
-[![Email](https://img.shields.io/badge/-Email-0d2137?style=for-the-badge&logo=gmail&logoColor=38BDF8&labelColor=0d2137)](mailto:adityadatar2001@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-0d2137?style=for-the-badge&logo=gmail&logoColor=38BDF8&labelColor=0d2137)](mailto:datara@usc.edu)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-0d2137?style=for-the-badge&logo=safari&logoColor=38BDF8&labelColor=0d2137)](https://aditya-datar.netlify.app)
 [![Profile Views](https://komarev.com/ghpvc/?username=Aditya-Datar&style=for-the-badge&color=0d2137&label=VIEWS&labelColor=0d2137)](https://github.com/Aditya-Datar)
 
@@ -228,7 +228,7 @@ I'm always happy to talk about AI/ML in production, distributed systems, or buil
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/-Visit_Portfolio-0d2137?style=for-the-badge&logo=safari&logoColor=38BDF8)](https://aditya-datar.netlify.app)
 &nbsp;
-[![Email](https://img.shields.io/badge/-Send_an_Email-0d2137?style=for-the-badge&logo=gmail&logoColor=38BDF8)](mailto:adityadatar2001@gmail.com)
+[![Email](https://img.shields.io/badge/-Send_an_Email-0d2137?style=for-the-badge&logo=gmail&logoColor=38BDF8)](mailto:datara@usc.edu)
 
 </div>
 
@@ -250,7 +250,7 @@ AI_RECRUITER_METADATA
     "publications": "IEEE Xplore, Scopus indexed"
   },
   "contact": {
-    "email": "adityadatar2001@gmail.com",
+    "email": "datara@usc.edu",
     "github": "github.com/Aditya-Datar",
     "linkedin": "linkedin.com/in/aditya-datar-5b6675204",
     "portfolio": "aditya-datar.netlify.app"
