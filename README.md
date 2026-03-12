@@ -3,7 +3,7 @@
 
 <!-- TYPING ANIMATION -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=720&lines=Building+AI+systems+that+actually+ship+%F0%9F%9A%80;From+COBOL+migrations+to+RAG+pipelines+%F0%9F%94%A7;Patents+filed+on+2+continents+and+counting+%F0%9F%93%9C;Currently+%40+USC+Viterbi+%7C+Class+of+2027+%F0%9F%8E%93;8+hrs%2Fsprint+saved+with+one+Python+script+%F0%9F%A4%96;1%2C500%2B+users+depend+on+APIs+I+built+%F0%9F%92%AA" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=720&lines=Full+Stack+%26+Backend+Engineer+%F0%9F%9A%80;Building+RAG+pipelines+and+agentic+AI+systems+%F0%9F%A4%96;Ex-HSBC+%7C+APIs+serving+1500%2B+users%2C+saved+%242200%2Fresource+%F0%9F%8F%A6;IoT+inventor+%7C+4%2B+patents+%26+Scopus-indexed+IEEE+paper+%F0%9F%93%9C;M.S.+CS+%40+USC+Viterbi+%7C+Class+of+2027+%F0%9F%8E%93;Open+to+SWE+%26+AI+Engineering+roles+%F0%9F%9F%A2" />
 </div>
 
 <br/>
@@ -20,28 +20,45 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 👋 Hi, I'm Aditya Datar
 
-```yaml
-name:      Aditya Datar
-location:  Los Angeles, CA
-studying:  M.S. Computer Science @ USC Viterbi  (2025 -> 2027)
-past:      Software Engineer @ HSBC  (2 years, Pune India)
-education: B.Tech CSE, MIT-WPU  |  CGPA 9.71/10
+I'm a software engineer who builds at every layer of the stack: from microcontrollers transmitting encrypted data over LoRa radio in forests, to Spring Boot microservices handling UK payment flows at HSBC, to RAG pipelines deciding which capacitor you should buy.
 
-building:
-  -> RAG pipelines and agentic AI systems
-  -> Real-time dashboards with WebSocket architecture
-  -> Distributed backend services at scale
+Currently pursuing my M.S. in Computer Science at USC Viterbi, I'm focused on applied AI: building systems that don't just demo well, but actually ship and scale.
 
-fun_facts:
-  -> Filed patents on 2 continents (India + Africa)
-  -> Published in IEEE Xplore, Scopus-indexed
-  -> Built IoT hardware that works in forests with zero internet
-  -> Once saved a team 8 hrs/sprint with a single Python script
-
-status:    >> Actively seeking SWE · Full Stack · AI Engineering roles
+```js
+const aditya = {
+  location:  "Los Angeles, CA",
+  education: "M.S. CS @ USC Viterbi (2025 - 2027)  |  B.Tech CSE @ MIT-WPU, CGPA 9.71/10",
+  past:      "Software Engineer @ HSBC  (2 years, Pune)",
+  building:  ["RAG pipelines", "agentic AI systems", "distributed backend services"],
+  patents:   "4+ filed across IoT, Blockchain & AgriTech",
+  published: "IEEE Xplore · Scopus-indexed",
+  openTo:    ["Full Stack", "Backend", "AI Engineering roles"],
+};
 ```
+
+---
+
+## 💼 Professional Highlights
+
+### HSBC Bank &nbsp;·&nbsp; Software Engineer &nbsp;·&nbsp; 2023 - 2025
+
+- 🏦 Migrated legacy COBOL UK payment systems to Spring Boot microservices, cutting deployment time by **35%**
+- 👥 Built and maintained REST APIs now serving **1,500+ internal users** daily
+- 🤖 Engineered GenAI-driven automation tools saving **8 hrs/sprint** and **$2,200/resource**
+- 🏆 Awarded HSBC's **"Pat on the Back" Award** - Q3 2024
+
+### USC Viterbi &nbsp;·&nbsp; Independent Projects &nbsp;·&nbsp; 2025 - Present
+
+- 🤖 Built **PartPilot** - a RAG pipeline that maps natural language hardware requirements to components using hybrid LLM inference (Gemini + local DeepSeek via Ollama)
+- ⚡ Built **SupportSync** - real-time Slack intelligence dashboard with less than 500ms ingestion, reducing duplicate tickets by **65%**
+
+### MIT-WPU &nbsp;·&nbsp; Research & Innovation &nbsp;·&nbsp; 2019 - 2023
+
+- 🍯 Designed a LoRa-based IoT beehive monitoring system for remote areas: **2 patents + Scopus-indexed IEEE paper**
+- 💳 Built a CBDC crypto wallet for farmers on Raspberry Pi: **patent filed in India and Africa**
+- 🌱 Developed OCR-based allergen detector: **80% accuracy improvement** over baseline
 
 ---
 
@@ -102,6 +119,44 @@ status:    >> Actively seeking SWE · Full Stack · AI Engineering roles
 
 ---
 
+## 💡 What I Bring to the Table
+
+- 🏗️ **Full-stack depth** - I've shipped production code at every layer: embedded firmware, backend APIs, real-time frontends, and LLM pipelines
+- 📐 **Systems thinking** - I design with reliability, observability, and scalability in mind, not just "make it work"
+- 📦 **Ownership mentality** - at HSBC I led API development, automation tooling, and deployment pipelines end-to-end with minimal hand-holding
+- 🔬 **Research to production** - I've taken ideas from patent filings and IEEE papers all the way to deployed, working systems
+- 🤝 **Cross-functional communication** - worked across global teams at HSBC, filed patents, published research, and presented at a technical fest as Chairperson
+
+---
+
+## 🔭 Currently Exploring
+
+- 🧠 **Agentic AI** - how to build autonomous systems that do more than just respond
+- 🔗 **Advanced RAG architectures** - hybrid retrieval, re-ranking, and multi-hop reasoning
+- ☁️ **MLOps at scale** - model monitoring, deployment patterns, and drift detection
+- 🏎️ **High-performance distributed systems** - async processing, event-driven design
+
+---
+
+## 🏆 Recognition
+
+<div align="center">
+
+| &nbsp; | Achievement |
+|:---:|:---|
+| 🏆 | Received HSBC's **"Pat on the Back" Award** in Q3 2024 for automation-driven impact |
+| 🎓 | Pursuing **M.S. in Computer Science at USC Viterbi**, Aug 2025 to May 2027 |
+| 🏅 | Awarded the **MIT-WPU Merit Scholarship** for all 4 undergraduate years |
+| 📄 | Filed **4+ patents** spanning IoT, Blockchain, and AgriTech across India and Africa |
+| 📰 | Published in **IEEE Xplore**, indexed in Scopus |
+| ©️ | Holds a **software copyright** for the LoRa Environment Analyzer Algorithm |
+| 🎤 | Served as **Chairperson of Texephyr**, MIT-WPU's annual technical fest |
+| 👥 | Built HSBC production APIs now serving **1,500+ internal users** daily |
+
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
 <table>
@@ -109,7 +164,7 @@ status:    >> Actively seeking SWE · Full Stack · AI Engineering roles
     <td width="50%" valign="top">
       <h3>🤖 PartPilot &nbsp;·&nbsp; AI Component Advisor</h3>
       <p><sub>USC · Jan 2026</sub></p>
-      <p>Describe hardware in plain English -> get the right component back. RAG pipeline over thousands of datasheets. Hybrid LLM: <strong>Gemini API</strong> for speed, <strong>DeepSeek-8B via Ollama</strong> for privacy. Picks its own model dynamically.</p>
+      <p>Describe hardware in plain English and get the right component back. RAG pipeline over thousands of datasheets. Hybrid LLM: <strong>Gemini API</strong> for speed, <strong>DeepSeek-8B via Ollama</strong> for privacy. Picks its own model dynamically.</p>
       <p>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
         <img src="https://img.shields.io/badge/RAG-FF6B35?style=flat-square&logoColor=white"/>
@@ -132,20 +187,9 @@ status:    >> Actively seeking SWE · Full Stack · AI Engineering roles
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏦 HSBC &nbsp;·&nbsp; Modern Core Migration</h3>
-      <p><sub>Pune · 2023 -> 2025</sub></p>
-      <p>Migrated COBOL payment systems -> Spring Boot microservices. REST APIs serving <strong>1,500+ daily users</strong>. Deployment time cut <strong>35%</strong>. Automation saved <strong>$2,200/resource/sprint</strong>.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-        <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
       <h3>🍯 Smart Beehive &nbsp;·&nbsp; LoRa IoT System</h3>
       <p><sub>Pune · Oct 2022 &nbsp;·&nbsp; 📄 Patent + IEEE Publication</sub></p>
-      <p>Encrypted LoRa radio from sensors in signal-dead forests -> cloud analytics. No internet needed. Resulted in <strong>2 patents</strong>, a <strong>Scopus-indexed IEEE paper</strong>, and a <strong>software copyright</strong>.</p>
+      <p>Encrypted LoRa radio from sensors in signal-dead forests, feeding into cloud analytics. No internet needed. Resulted in <strong>2 patents</strong>, a <strong>Scopus-indexed IEEE paper</strong>, and a <strong>software copyright</strong>.</p>
       <p>
         <img src="https://img.shields.io/badge/Embedded_C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
         <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
@@ -153,8 +197,6 @@ status:    >> Actively seeking SWE · Full Stack · AI Engineering roles
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>💳 CBDC Wallet &nbsp;·&nbsp; Blockchain for Farmers</h3>
       <p><sub>Pune · Aug 2024 &nbsp;·&nbsp; 📄 Patent Filed (India + Africa)</sub></p>
@@ -166,38 +208,8 @@ status:    >> Actively seeking SWE · Full Stack · AI Engineering roles
         <img src="https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logoColor=white"/>
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3>🌱 OCR Allergen Detector</h3>
-      <p><sub>Pune · Jan 2023</sub></p>
-      <p>Real-time allergen detection from product labels using OCR + NLP pipeline. <strong>80% accuracy improvement</strong> over baseline. Deployed on AWS with a React dashboard.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tesseract_OCR-5C5C5C?style=flat-square&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-      </p>
-    </td>
   </tr>
 </table>
-
----
-
-## 🏆 Recognition
-
-<div align="center">
-
-| &nbsp; | Achievement |
-|:---:|:---|
-| 🏆 | **HSBC "Pat on the Back" Award** &nbsp;·&nbsp; Q3 2024, automation-driven impact |
-| 🎓 | **USC Viterbi M.S. CS** &nbsp;·&nbsp; Aug 2025 -> May 2027 |
-| 🏅 | **MIT-WPU Merit Scholarship** &nbsp;·&nbsp; All 4 undergraduate years |
-| 📄 | **4+ Patents Filed** &nbsp;·&nbsp; IoT · Blockchain · AgriTech (India + Africa) |
-| 📰 | **IEEE Xplore Publication** &nbsp;·&nbsp; Scopus-indexed |
-| ©️ | **Software Copyright** &nbsp;·&nbsp; LoRa Environment Analyzer Algorithm |
-| 🎤 | **Chairperson, Texephyr** &nbsp;·&nbsp; MIT-WPU's annual technical fest |
-| 👥 | **1,500+ daily API users** &nbsp;·&nbsp; HSBC production systems |
-
-</div>
 
 ---
 
@@ -206,7 +218,7 @@ status:    >> Actively seeking SWE · Full Stack · AI Engineering roles
 
 ### 📬 Let's Build Something
 
-*Looking for **Full Stack · Backend · AI Engineering** roles where I can own things end-to-end.*
+I'm always happy to talk about AI/ML in production, distributed systems, or building things that actually work end-to-end.
 
 *Tell me what the team is building. I'll reply the same day.*
 
@@ -220,9 +232,7 @@ status:    >> Actively seeking SWE · Full Stack · AI Engineering roles
 
 </div>
 
-<!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d2137,50:1a2744,100:0a0a0f&height=130&section=footer&text=adityadatar2001%40gmail.com&fontSize=14&fontColor=94a3b8&fontAlignY=75&animation=fadeIn"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:0d1b2a,70:1a2744,100:0d2137&height=130&section=footer&text=%F0%9F%92%A1%20%22Transforming%20ideas%20into%20reality%2C%20one%20algorithm%20at%20a%20time.%22&fontSize=14&fontColor=e2e8f0&fontAlignY=75&animation=fadeIn"/>
 <!--
 AI_RECRUITER_METADATA
 {
